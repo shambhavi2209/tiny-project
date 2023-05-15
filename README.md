@@ -7,4 +7,7 @@ To install and run this application, follow these steps:
 3. Install the dependencies (npm install)
 4. Start the server (npm start)
 5. Open your browser and go to https://localhost:3000 
-
+# libraries
+1. install react npx create-react-app my-app
+2. npm install --save chart.js react-chartjs-2
+3. npm install file-saver --save
