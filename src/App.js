@@ -1,24 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+
+import './Button.css';
+import Button from './Button';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Button link = "http://email.click2redirect.me/ls/click?upn=6Zx57d02W-2Bi-2BJHqESYwSXSXxtnog0HYPjT5PulZ5JYgHVglzwH36rPUaucgQt-2BsTr3w6DbluEG10d6GAZkBtmlxhG5Yoyguld7Ikz0a5HmapGGFUZi-2BMQbmTQV4NlYIgGiDTBsCFbDLdD84ALOec-2BDyppWvRZsKD3N8tMQnMNsnsqWvQJh1kT8QvP4UXX6l-2BBF-2B1VmViogohlc6SJ1Rfnlp-2FelhnInU0r18nvAe-2FbgQUDyJI2CU6bMnrH61H-2B6W7hDiigKjOnFH0-2BKzgOzdUf-2FA9imhUXavgAzRfDYqFDb1t-2F-2BHEul-2FgYEpGI-2FPUHy-2BgC9UzIHrXppDlL1lft-2BM70JqJA0PPmyFov8GjriT4uHrVdpVY32gDhMebSu2Ek5IKFkwx7gWN0mwJqLZbevYVOboxpvY7luHyyvTIfP-2F-2BQ-2BUjUQ9PdTEseP-2B5sIKYQEIOhsJkEyLt7S6KOxx3j6iLRQ-3D-3DpTvD_HDG2mZmiozj06zlA7ndZRT9-2BFlxXsMPBoew7jtMEGa3UtfSeD9ud7-2FN6jzQ6tMhURCA-2Fkjdt8q5OPd84fMQJCwGHEwKu5tIa0pzZSTxqA0-2BMNtvfEGYCnBtUlFwYo-2FwMmd5Wi8oAS6F7Sh3xd08EvBLzaHIAcEaWx-2F-2B7-2FcGnn-2B8TpXKPFeqvIdN6y-2B6xQ8xest7WquDpa-2BeuL2CFVF6tufrStUxvis-2FtB5noD6GYins3XEUa8QL-2FRf-2FjDAA4DD1bRL9Dm5dExbeS-2BXvKQ4jcCs08WgDQVlU2dP2qsD0wa3nsB3Mv1ZNcEmaw0hg7vU1du36wZg82SV33sXhUNSzfDG-2FczzyK6HKCCZtVhsjqiAbXfPyz0vI-2Fq8c1nBg0wkj4rcEVj4iuy5-2F-2BxQAfHucpR81uYHLnB44tthbS9qnT-2FCzxC6aYt-2FaNXSH7B9wSyQmLZPBbrN3-2BIwmDuc-2FUblDFP6mKKFxxlSzYaO2DnF7uCZ3bVPy01Rf45fIkslVCOjxOw8M0Lqjr-2FTdrC85VPfv1uXCf9jNJzW8VKwGPq18OdFOnt2qzrDL8IN5MHootpNHtnayCzqbjiQwLQRFKG4lM2A-3D-3D"/>
   );
 }
 

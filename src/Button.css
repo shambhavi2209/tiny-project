@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.submit-button {
+  background-color: #ac0e19;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  border: none;
+}
+
+.export-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 4px;
+  border: none;
+}
+
+
+
+
