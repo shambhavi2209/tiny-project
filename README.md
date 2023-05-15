@@ -15,4 +15,5 @@ To install and run this application, follow these steps:
 1. Submit Button: This button fetches the text of the URL on the screen by using various functions such as .fetch(), .text(). On the first load only this button is visible and all the other elements show up only after clicking the submit button present in the middle of the screen.
 ![submit](https://github.com/shambhavi2209/tiny-project/assets/72241708/155ede4c-81c1-4ea1-9ec4-4225d10b3017)
 2. Export Button: This button shows up only after you click the submit button in green color on the top left corner it allows the user to save CSV file of the histogram data.
+
 ![export](https://github.com/shambhavi2209/tiny-project/assets/72241708/1f0fefbf-2f89-484b-8654-5a9ef1caaf9f)
